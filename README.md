@@ -54,32 +54,13 @@ The dataset used in this project contains detailed hotel booking information, in
 - Cancellation rates vary based on customer demographics and booking sources.
 - Machine learning models provide accurate predictions for booking outcomes.
 
-## **How to Run the Project**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/hotel-booking-eda.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd hotel-booking-eda
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Hotel_Booking_EDA_Project.ipynb
-   ```
-
 ## **Future Enhancements**
 - Implementing deep learning models for better predictions.
 - Enhancing data visualization with interactive dashboards.
 - Expanding the dataset with real-time booking information.
 
 ## **Author**
-[Padma SAINI]
+Padma SAINI
 
-## **License**
-This project is licensed under the MIT License.
+
 
